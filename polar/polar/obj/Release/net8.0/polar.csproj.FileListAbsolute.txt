@@ -1,0 +1,14 @@
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.AssemblyInfo.cs
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\polar\polar\bin\Release\net8.0\polar.exe
+C:\Users\Noah\source\repos\polar\polar\bin\Release\net8.0\polar.deps.json
+C:\Users\Noah\source\repos\polar\polar\bin\Release\net8.0\polar.runtimeconfig.json
+C:\Users\Noah\source\repos\polar\polar\bin\Release\net8.0\polar.dll
+C:\Users\Noah\source\repos\polar\polar\bin\Release\net8.0\polar.pdb
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.dll
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\refint\polar.dll
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.pdb
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\polar.genruntimeconfig.cache
+C:\Users\Noah\source\repos\polar\polar\obj\Release\net8.0\ref\polar.dll
