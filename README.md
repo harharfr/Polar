@@ -1,4 +1,6 @@
-## Open-sourced code to my old Fortnite launcher
-- I no longer use this or need it so feel free to take some inspiration 
+## 🛠️ Old Fortnite Launcher (Open Source)
 
-- Made by harharfr
+This is the open-sourced code for my old Fortnite launcher.  
+I don’t use it anymore, so feel free to explore, learn from it, or take inspiration for your own projects.
+
+> Made with 💻 by **harharfr**
